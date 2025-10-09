@@ -1,0 +1,246 @@
+.big {
+  margin: 0 auto;
+  width: 1440px;
+}
+.tour {
+  display: flex;
+  justify-content: space-between;
+  width: 1440px;
+  height: 150px
+  align-items: center;
+}
+.pinetour {
+  background-image: url(86c0cdfe0a75f7a2c1c595781b7f4589e61e3895.png);
+  position: fixed;
+  height: 35px;
+  width: 100px;
+  display: flex;
+  background-size:100%;
+  
+  
+  
+  
+}
+.home {
+  position: fixed;
+  font-size: 23px;
+  color: white;
+  display: flex;
+  padding-left:555px;
+  padding-top: 30px;
+}
+.about {
+  position: fixed;
+  font-size: 23px;
+  color: white;
+  height: 50px;
+  width: 50px;
+  padding-left: 680px;
+  padding-top: 30px;
+
+}
+.contact {
+  position: fixed;
+  font-size: 23px;
+  color: white;
+  padding-left: 800px;
+  padding-top: 30px ;
+
+}
+.user{
+  color: white;
+  font-size: 23px;
+  padding-left:920px ;
+  padding-top: 30px;
+  position: fixed;
+}
+.en{
+  font-size: 23px;
+  color: black;
+  padding-left:1300px;
+  padding-top: 30px;
+  height: 30px;
+width: 30px;
+
+  
+}
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url(87cef5d5d40a9f22a64d6937ad2f7df5b04e3d85.png);
+  background-size: cover;
+  background-position: center;
+  width: 1440px;
+  height: 800px;
+}
+.location {
+  display: flex;
+  background-image: url(6bb474b8f154e12ab10e74d534a188674e4d8b4c.png);
+  background-size: cover;
+  width: 1440px;
+  height: 500px;
+}
+.roadmap {
+  display: flex;
+  background-image: url(f5b17d15dc77956189a929448458859006401865.png);
+  background-size: cover;
+  width: 1440px;
+  height: 1022px;
+}
+.fouter {
+  display: flex;
+  background-image: url(bfc82fd98ba90e92a1a6c0d5ac559a55f9413e51.png);
+  background-size: cover;
+  width: 1440px;
+  height: 1120px;
+  background-position: center;
+}
+.text1 {
+  display: flex;
+  font-size: 55px;
+  color: white;
+  opacity: 0.5;
+}
+.text2 {
+  font-size: 250px;
+  color: white;
+}
+.text3 {
+  font-size: 70px;
+  color: white;
+}
+.location {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  justify-content: center;
+}
+.text4 {
+  background-image: url(94117af0fae2d95b54ef6842a38934433c1d99d7.png);
+  width: 265px;
+  height: 350px;
+  background-size: cover;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+  font-size: 25px;
+}
+.text5 {
+  background-image: url(2.png);
+  width: 265px;
+  height: 350px;
+  background-size: cover;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 25px;
+}
+.text6 {
+  background-image: url(3addd77130ef139251c1b14778748735ed337e4d.png);
+  width: 265px;
+  height: 350px;
+  background-size: cover;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 25px;
+}
+.text7 {
+  background-image: url(pinefour5.png);
+  width: 265px;
+  height: 350px;
+  background-size: cover;
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 25px;
+}
+.roadmap {
+  display: flex;
+
+  align-items: center;
+  flex-direction: column;
+}
+.text8 {
+  font-size: 55px;
+}
+.text9 {
+  font-size: 25px;
+  color: rgb(22, 21, 21);
+  opacity: 0.7;
+}
+.road {
+  width: 1440px;
+  height: 1200px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  padding-left: 170px;
+}
+.text10 {
+  width: 513px;
+  height: 112px;
+  border-radius: 120px;
+  background-color: rgb(246, 230, 211);
+  opacity: 0.9;
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.text11 {
+  height: 112px;
+  width: 513px;
+  border-radius: 120px;
+  background-color: rgb(120, 195, 195);
+  opacity: 0.8;
+  font-size: 30px;
+  flex-direction: column;
+}
+.text12 {
+  height: 112px;
+  width: 513px;
+  border-radius: 120px;
+  background-color: rgb(139, 199, 179);
+  opacity: 0.7;
+  font-size: 30px;
+  flex-direction: column;
+}
+.text13 {
+  height: 112px;
+  width: 513px;
+  border-radius: 120px;
+  background-color: rgba(176, 206, 176, 0.928);
+  opacity: 0.6;
+  font-size: 30px;
+}
+.text14 {
+  height: 112px;
+  width: 513px;
+  border-radius: 120px;
+  background-color: lightskyblue;
+  opacity: 0.5;
+  font-size: 30px;
+}
+.garchig {
+  width: 1440px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: end;
+}
+.font {
+  font-size: 20px;
+}
