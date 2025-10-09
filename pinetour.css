@@ -6,27 +6,24 @@
   display: flex;
   justify-content: space-between;
   width: 1440px;
-  height: 150px
+
   align-items: center;
 }
 .pinetour {
-  background-image: url(86c0cdfe0a75f7a2c1c595781b7f4589e61e3895.png);
+  background-image: url(pinetour-logo.webp);
+
   position: fixed;
   height: 35px;
   width: 100px;
   display: flex;
-  background-size:100%;
-  
-  
-  
-  
+  background-size: 100%;
 }
 .home {
   position: fixed;
   font-size: 23px;
   color: white;
   display: flex;
-  padding-left:555px;
+  padding-left: 555px;
   padding-top: 30px;
 }
 .about {
@@ -36,33 +33,29 @@
   height: 50px;
   width: 50px;
   padding-left: 680px;
-  padding-top: 30px;
-
+  padding-top: 55px;
 }
 .contact {
   position: fixed;
   font-size: 23px;
   color: white;
   padding-left: 800px;
-  padding-top: 30px ;
-
+  padding-top: 30px;
 }
-.user{
+.user {
   color: white;
   font-size: 23px;
-  padding-left:920px ;
+  padding-left: 920px;
   padding-top: 30px;
   position: fixed;
 }
-.en{
+.en {
   font-size: 23px;
   color: black;
-  padding-left:1300px;
+  padding-left: 1300px;
   padding-top: 30px;
   height: 30px;
-width: 30px;
-
-  
+  width: 30px;
 }
 .hero {
   display: flex;
@@ -198,6 +191,7 @@ width: 30px;
   font-size: 30px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 .text11 {
   height: 112px;
@@ -243,4 +237,45 @@ width: 30px;
 }
 .font {
   font-size: 20px;
+}
+.day {
+  height: 40px;
+  width: 40px;
+}
+.fouter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.text15 {
+  font-size: 60px;
+  padding-top: 50px;
+}
+.text16 {
+  font-size: 25px;
+  opacity: 0.7;
+}
+.neg {
+  height: 527px;
+  width: 384px;
+  border-radius: 40px;
+  background-color: white;
+}
+.hoer {
+  height: 527px;
+  width: 384px;
+  border-radius: 40px;
+  background-color: white;
+}
+.gurav {
+  height: 527px;
+  width: 384px;
+  border-radius: 40px;
+  background-color: white;
+}
+.buttons {
+  display: flex;
+  gap: 20px;
+  padding-top: 60px;
 }
